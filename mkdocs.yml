@@ -6,3 +6,4 @@ nav:
     - '快速参考': 'cheetsheet.md'
     - '最佳实践':
         - 'Nginx日志解析': 'best_practices/nginx/parse_nginx.md'
+        - '日志富化实战': 'best_practices/resource/data_join.md'
