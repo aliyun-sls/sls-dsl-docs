@@ -7,3 +7,9 @@ nav:
     - '最佳实践':
         - 'Nginx日志解析': 'best_practices/nginx/parse_nginx.md'
         - '日志富化实战': 'best_practices/resource/data_join.md'
+        - '跨Region传输功能介绍' : 'best_practices/data_flow/cross_region.md'
+        - '数据脱敏': 'best_practices/remove_sensitive_info/data.md'
+        - '处理日期时间': 'best_practices/datetime/datetime.md'
+        - '使用ipip库解析ip地址': 'best_practices/ipip/geo_parse_ipip.md'
+        - '使用ip2location库解析ip地址': 'best_practices/ip2location/oss_ip2location.md'
+        - '复杂json数据加工': 'best_practices/json/json_parse.md'
