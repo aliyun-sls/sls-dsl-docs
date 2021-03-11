@@ -6,3 +6,4 @@ nav:
     - '快速参考': 'cheetsheet.md'
     - '最佳实践':
         - 'Nginx日志解析': 'best_practices/nginx/parse_nginx.md'
+        - 'Flowlog流量过滤': 'best_practices/flowlog/filter_flow.md'
