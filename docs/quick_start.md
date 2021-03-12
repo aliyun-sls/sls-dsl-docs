@@ -30,3 +30,5 @@ e_set("msg", "Hello World")
 上线步骤：点击界面上的“保存数据加工” 按钮，填写对应的目标Logstore的表单，即可将任务上线。上线后任务将持续运行
 
 ![](img/sls-dsl-save.jpg)
+
+<img class="img-responsive"src='http://doc-stat.cn-beijing.log.aliyuncs.com/logstores/access/track_ua.gif?APIVersion=0.6.0&doc=quick_start.md'/>

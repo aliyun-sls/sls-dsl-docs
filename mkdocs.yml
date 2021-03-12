@@ -13,3 +13,4 @@ nav:
         - '使用ipip库解析ip地址': 'best_practices/ipip/geo_parse_ipip.md'
         - '使用ip2location库解析ip地址': 'best_practices/ip2location/oss_ip2location.md'
         - '复杂json数据加工': 'best_practices/json/json_parse.md'
+        - 'Flowlog流量过滤': 'best_practices/flowlog/filter_flow.md'

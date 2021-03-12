@@ -222,3 +222,5 @@ e_if(op_ne(v("http_code_alias"),"2xx"), e_coutput(name="img/nginx-log-bad"))
 保存完即完成上线，可以在数据处理-加工下看到该任务，点击进去可以看到加工延迟等信息。
 
 ![](img/nginx-dashboard.png)
+
+<img class="img-responsive"src='http://doc-stat.cn-beijing.log.aliyuncs.com/logstores/access/track_ua.gif?APIVersion=0.6.0&doc=best_practices/nginx/parse_nginx.md'/>
