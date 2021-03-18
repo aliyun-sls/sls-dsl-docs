@@ -30,7 +30,5 @@ nav:
         - '多源logstore数据汇总': 'best_practices/summary_logstore/summary_logstore_data.md'
         - '复制和分发数据': 'best_practices/split_data/split_data_and_output.md'
         - '使用e_dict_map、e_search_dict_map函数进行数据富化': 'best_practices/table/use_table_join.md'
-
-
-
+        - 'Log转Metric': 'best_practices/log2metric/log2metric.md'
 

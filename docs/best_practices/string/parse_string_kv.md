@@ -207,7 +207,7 @@
 
   * 原始日志
 
-        content :"ak_id:"LTAiscW,"ak_key:"rsd7r8f
+        content :"ak_id:"lxaiscW,"ak_key:"rsd7r8f
         
 
     
@@ -223,8 +223,8 @@
 
   * 加工结果经过DSL编排之后的日志格式：
 
-        content :"ak_id:"LTAiscW,"ak_key:"rsd7r8f
-        ak_id: LTAiscW
+        content :"ak_id:"lxaiscW,"ak_key:"rsd7r8f
+        ak_id: lxaiscW
         ak_key: rsd7r8f
         
 
