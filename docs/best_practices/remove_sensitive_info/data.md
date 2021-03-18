@@ -6,7 +6,7 @@
 背景信息 
 -------------------------
 
-常见脱敏场景有为手机号、银行卡号、邮箱、IP、AK、身份证号网址、订单号、字符串等敏感信息脱敏。在SLS数据加工服务中，常见的脱敏方法有正则表达式替换（关键函数 *regex_replace* ）、Base64转码（关键函数 *base64_encoding* ）、MD5编码（关键函数 *md5_encoding* ）、str_translate映射（关键函数 *str_translate* ）、GROK捕获（关键函数 *grok* )等，更多信息，请参见[正则表达式函数](t908957.html#concept-1130521)、[GROK函数](t947536.html#concept-1180778)和[编码解码函数](t908959.html#concept-1130525)。
+常见脱敏场景有为手机号、银行卡号、邮箱、IP、AK、身份证号网址、订单号、字符串等敏感信息脱敏。在SLS数据加工服务中，常见的脱敏方法有正则表达式替换（关键函数 *regex_replace* ）、Base64转码（关键函数 *base64_encoding* ）、MD5编码（关键函数 *md5_encoding* ）、str_translate映射（关键函数 *str_translate* ）、GROK捕获（关键函数 *grok* )等，更多信息，请参见[正则表达式函数](https://help.aliyun.com/document_detail/125411.htm?spm=a2c4g.11186623.2.12.69195453yMRh2g#concept-1130521)、[GROK函数](https://help.aliyun.com/document_detail/125480.htm?spm=a2c4g.11186623.2.13.69195453yMRh2g#concept-1180778)和[编码解码函数](https://help.aliyun.com/document_detail/125413.htm?spm=a2c4g.11186623.2.14.69195453yMRh2g#concept-1130525)。
 
 场景1：手机号脱敏 
 ------------------------------

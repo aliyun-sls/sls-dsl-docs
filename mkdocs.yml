@@ -14,3 +14,23 @@ nav:
         - '使用ip2location库解析ip地址': 'best_practices/ip2location/oss_ip2location.md'
         - '复杂json数据加工': 'best_practices/json/json_parse.md'
         - 'Flowlog流量过滤': 'best_practices/flowlog/filter_flow.md'
+        - '调用函数清洗数据': 'best_practices/function/use_func.md'
+        - '事件判断': 'best_practices/event/event_judgment.md'
+        - '解析syslog标准格式数据': 'best_practices/syslog/parse_syslog.md'
+        - '提取字符串动态键值对': 'best_practices/string/parse_string_kv.md'
+        - '特定格式文本数据加工': 'best_practices/text/text_transform.md'
+        - '解析csv格式日志': 'best_practices/csv/parse_csv.md'
+        - '从其他logstore获取数据做富化': 'best_practices/logstore_join/pull_logstore_data.md'
+        - '从oss获取csv文件进行数据富化': 'best_practices/oss/parse_oss_csv.md'
+        - '从RDS MySQL数据库获取数据进行数据富化': 'best_practices/rds_mysql/pull_rds_mysql.md'
+        - '使用RDS内网地址访问RDS MySQL数据库': 'best_practices/rds_mysql_vpc/pull_rds_mysql_vpc.md'
+        - '构建字典与表格做数据富化': 'best_practices/dict_table/make_dict_table.md'
+        - '复制logstore数据': 'best_practices/copy_logstore/copy_logstore_data.md'
+        - '多目标logstore数据分发': 'best_practices/output_logstore/output_logstore_data.md'
+        - '多源logstore数据汇总': 'best_practices/summary_logstore/summary_logstore_data.md'
+        - '复制和分发数据': 'best_practices/split_data/split_data_and_output.md'
+        - '使用e_dict_map、e_search_dict_map函数进行数据富化': 'best_practices/table/use_table_join.md'
+
+
+
+
